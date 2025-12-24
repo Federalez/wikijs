@@ -2,8 +2,10 @@
 title: Database Objects - mart_sv
 description: Список объектов базы данных схемы mart_sv
 published: true
-date: 2025-12-24 11:21:54
+date: 2025-12-24T11:55:33.569Z
 tags: database, mart_sv, metadata
+editor: markdown
+dateCreated: 2025-12-24T11:22:22.386Z
 ---
 
 # Database Objects - mart_sv
