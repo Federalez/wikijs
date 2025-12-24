@@ -2,7 +2,7 @@
 title: Витрины
 description: Витрины используемые дашбордами
 published: true
-date: 2025-12-24T08:18:18.497Z
+date: 2025-12-24T09:01:42.510Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T07:44:52.021Z
@@ -19,7 +19,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ```
 
 
-
+фывфыа
 цукцу
 
-йцкйуцауццф
+йцкйуцауццфываыва
